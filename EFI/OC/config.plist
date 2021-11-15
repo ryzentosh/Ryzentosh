@@ -1558,9 +1558,9 @@
 		<key>Scheme</key>
 		<dict>
 			<key>CustomKernel</key>
-			<false/>
-			<key>FuzzyMatch</key>
 			<true/>
+			<key>FuzzyMatch</key>
+			<false/>
 			<key>KernelArch</key>
 			<string>x86_64</string>
 			<key>KernelCache</key>
