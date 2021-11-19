@@ -33,6 +33,7 @@
 - [ACPI定制USB端口](https://github.com/daliansky/OC-little/blob/master/15-ACPI%E5%AE%9A%E5%88%B6USB%E7%AB%AF%E5%8F%A3/README.md)
 - [Intel无线网卡](
 https://github.com/OpenIntelWireless/itlwm/releases)
+- [AMD Vanilla OpenCore](https://github.com/AMD-OSX/AMD_Vanilla)
 
 ## AMD cpu 配置
 - [资源地址](https://github.com/AMD-OSX/AMD_Vanilla)
