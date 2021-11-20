@@ -1254,16 +1254,6 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>CrScreenshotDxe.efi</string>
-			</dict>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
 				<string>OpenCanopy.efi</string>
 			</dict>
 		</array>
