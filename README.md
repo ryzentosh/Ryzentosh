@@ -38,11 +38,12 @@ https://github.com/OpenIntelWireless/itlwm/releases)
 ## AMD cpu 配置
 - [资源地址](https://github.com/AMD-OSX/AMD_Vanilla)
  > 说明:不同的CPU根据修改内核参数就可以修改
+ > 项目根目录有 5800x 配置的config.plist 文件
 
 ## 无线网卡 AX 200
  > 引入AirportItlwm.kext 并配置 config->Kernel->Add
 
 ## 蓝牙 针对 Monterey 需要进行特殊配置
  > 1.确保IntelBluetoothFirmware.kext 最近版本
- > 2.引入IntelBluetoothInjector.kext 并配置 config->Kernel->Add
+ > 2.删除IntelBluetoothInjector.kext 并移除 config->Kernel->Add->IntelBluetoothInjector.kext
  > 3.引入BlueToolFixup.kext [地址](https://github.com/acidanthera/BrcmPatchRAM)
