@@ -1,0 +1,3 @@
+# 黑苹果 OpenCore 配置 for ASUS TUF B550M-WIFI 5600X RX560D
+
+FOR 11 版本
