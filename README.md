@@ -10,7 +10,7 @@
 
 - 主板：华硕 ASUS TUF B550M-WIFI
 - CPU：AMD 3900X
-- 显卡：蓝宝石 6600XT 超白金版
+- 显卡：RX560D
 - 内存：美商海盗船(USCORSAIR)DDR4 3200 16GB
 - 硬盘：三星 980Pro NVMe PCIe4.0 500G
 - 网卡：主板自带 AX201
@@ -32,7 +32,7 @@
 
 - 操作系统版本：macOS Monterey 12.1(beta2)
 - OpenCore 版本：0.7.5(正式版)
-- 无线网卡：AX200
+- 无线网卡：AX201
 
 ## 其他
 
