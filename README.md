@@ -1,10 +1,6 @@
 # 黑苹果 OpenCore 配置 for ASUS TUF B550M-WIFI 5600X RX560D
 
-## ![1011 2021-11-11 10.55.05](https://yiqibangface.oss-cn-shenzhen.aliyuncs.com/apanda/uPic/2021-11-24_20-42-31.png)
-
-更新日志
-
-- 21 年 11 月 18 日 opencore 升级到 0.7.5 正式版
+## ![1011 2021-11-11 10.55.05](https://yiqibangface.oss-cn-shenzhen.aliyuncs.com/apanda/uPic/1011%202021-11-11%2010.55.05.jpg)
 
 ## 硬件配置
 
@@ -55,9 +51,3 @@
 ## 无线网卡 AX 201
 
 > 引入 AirportItlwm.kext 并配置 config->Kernel->Add
-
-## 蓝牙 针对 Monterey 需要进行特殊配置
-
-- 1.确保 IntelBluetoothFirmware.kext 最近版本
-- 2.删除 IntelBluetoothInjector.kext 并移除 config->Kernel->Add->IntelBluetoothInjector.kext
-- 3.引入 BlueToolFixup.kext [地址](https://github.com/acidanthera/BrcmPatchRAM)
