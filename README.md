@@ -2,16 +2,12 @@
 
 ## ![1011 2021-11-11 10.55.05](https://yiqibangface.oss-cn-shenzhen.aliyuncs.com/apanda/uPic/2021-11-24_20-42-31.png)
 
-更新日志
-
-- 21 年 11 月 18 日 opencore 升级到 0.7.5 正式版
-
 ## 硬件配置
 
 - 主板：华硕 ASUS TUF B550M-WIFI
 - CPU：AMD 3900X
 - 显卡：RX560D
-- 内存：美商海盗船(USCORSAIR)DDR4 3200 16GB
+- 内存：美商海盗船(USCORSAIR)DDR4 3600 16GB
 - 硬盘：三星 980Pro NVMe PCIe4.0 500G
 - 网卡：主板自带 AX201
 
@@ -61,3 +57,5 @@
 - 1.确保 IntelBluetoothFirmware.kext 最近版本
 - 2.删除 IntelBluetoothInjector.kext 并移除 config->Kernel->Add->IntelBluetoothInjector.kext
 - 3.引入 BlueToolFixup.kext [地址](https://github.com/acidanthera/BrcmPatchRAM)
+
+![2021-07-22_21-22-13](https://yiqibangface.oss-cn-shenzhen.aliyuncs.com/apanda/uPic/2021-07-22_21-22-13.png)
