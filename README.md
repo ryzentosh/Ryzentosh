@@ -5,7 +5,7 @@
 ## 硬件配置
 
 - 主板：华硕 ASUS TUF B550M-WIFI
-- CPU：AMD 3900X
+- CPU：AMD 5600X
 - 显卡：RX560D
 - 内存：美商海盗船(USCORSAIR)DDR4 3600 16GB
 - 硬盘：三星 980Pro NVMe PCIe4.0 500G
@@ -28,7 +28,7 @@
 
 - 操作系统版本：macOS Monterey 12.1(beta2)
 - OpenCore 版本：0.7.5(正式版)
-- 无线网卡：AX201
+- 无线网卡：英特尔 ® Wi-Fi 6 AX200
 
 ## 其他
 
@@ -48,7 +48,7 @@
 
 > 项目根目录有 5800x 配置的 config.plist 文件
 
-## 无线网卡 AX 201
+## 英特尔 ® Wi-Fi 6 AX200
 
 > 引入 AirportItlwm.kext 并配置 config->Kernel->Add
 
