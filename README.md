@@ -1,5 +1,15 @@
 # 黑苹果 OpenCore 配置 for ASUS TUF B550M-WIFI 5600X RX560D
 
+
+
+
+
+| 更新版本 | 更新时间 | 更新内容       |
+| -------- | -------- | -------------- |
+| OC0.7.7  | 20220118 | 0.7.6 -> 0.7.7 |
+
+
+
 ## ![1011 2021-11-11 10.55.05](https://yiqibangface.oss-cn-shenzhen.aliyuncs.com/apanda/uPic/2021-11-24_20-42-31.png)
 
 ## 硬件配置
